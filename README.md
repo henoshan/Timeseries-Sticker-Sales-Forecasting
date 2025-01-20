@@ -15,3 +15,17 @@ This repository contains my solution for the **Forecasting Sticker Sales** compe
 🔗 **Kaggle Competition Page**: Available in the repository in the folder Datasets
 
 ---
+
+## 🚀 Approach  
+
+### 1️⃣
+
+### 2️⃣
+
+### 3️⃣
+
+### 4️⃣
+
+### 5️⃣
+
+---
