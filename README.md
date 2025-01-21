@@ -18,7 +18,9 @@ This repository contains my solution for the **Forecasting Sticker Sales** compe
 
 ## 🚀 Approach  
 
-### 1️⃣
+### 1️⃣ Exploratory Data Analysis (EDA)  
+- Visualizing trends, seasonality, and holiday effects.  
+- Handling missing values and outliers. 
 
 ### 2️⃣
 
