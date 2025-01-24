@@ -1,6 +1,7 @@
 # Project Approach
 
-## 1. CSV Loader
+## 1. Data Exploration and Preprocessing
+First, let's analyze the structure and patterns in your data:
 
 ### Train Dataset Preview
 
@@ -12,4 +13,5 @@
 
 ---
 
-## 2. Data Exploration and Preprocessing
+## 2. Feature Engineering
+Let's create relevant features for time series analysis:
