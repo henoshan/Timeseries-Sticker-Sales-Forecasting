@@ -16,5 +16,7 @@ First, let's analyze the structure and patterns in your data:
 ## 2. Feature Engineering
 Let's create relevant features for time series analysis:
 
+Year, Month, Day, Day of week and Quater are added to the data_frame
+
 ![image](https://github.com/user-attachments/assets/f34c9295-6a0b-487c-9357-b128ff56c374)
 ![image](https://github.com/user-attachments/assets/9766784f-3aa9-40f4-b876-5e3c47be8736)
