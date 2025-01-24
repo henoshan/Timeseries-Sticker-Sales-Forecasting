@@ -16,6 +16,7 @@ First, let's analyze the structure and patterns in your data:
 
 ![image](https://github.com/user-attachments/assets/fbf191ed-486b-4df4-a620-03ccebed11db)
 
+![image](https://github.com/user-attachments/assets/d24cbc77-d420-471e-adfb-38339f29dbef)
 
 ## 2. Feature Engineering
 Let's create relevant features for time series analysis:
