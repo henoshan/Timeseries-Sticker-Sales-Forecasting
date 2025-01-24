@@ -34,3 +34,11 @@ Let's analyze patterns and relationships:
 ---
 ## 5. Statistical Analysis:
 Let's understand the time series components:
+
+---
+## 6. Feature Preparation:
+Let's prepare our features for modeling:
+
+![image](https://github.com/user-attachments/assets/24d6fd43-84db-422e-b86d-a9f738a27fda)
+![image](https://github.com/user-attachments/assets/8a1f06b8-92c0-4c25-9f5c-fffbe5522370)
+
