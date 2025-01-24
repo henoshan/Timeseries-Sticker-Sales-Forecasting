@@ -31,6 +31,11 @@ Year, Month, Day, Day of week and Quater are added to the data_frame
 ## 4. Exploratory Data Analysis (EDA):
 Let's analyze patterns and relationships:
 
+![image](https://github.com/user-attachments/assets/a3d76d05-96fa-46fd-9633-6ab725a53ee7)
+![image](https://github.com/user-attachments/assets/d8a956c1-7cfe-4ecb-a215-3e6678ad07e5)
+![image](https://github.com/user-attachments/assets/2f9bb8ee-6b77-4a94-9f10-2b8ebb672fb7)
+![image](https://github.com/user-attachments/assets/c2d2ec1c-692b-4730-9502-86b86903a1f3)
+
 ---
 ## 5. Statistical Analysis:
 Let's understand the time series components:
